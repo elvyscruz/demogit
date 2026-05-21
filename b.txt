@@ -1,1 +1,1 @@
-soy B
+soy B.txt, el 2do archivo
